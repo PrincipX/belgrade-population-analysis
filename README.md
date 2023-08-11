@@ -1,4 +1,4 @@
-# Belgrade's Population Analysis
+# Belgrade's Population Analysis Project: A Deeper Exploration
 
 The "Belgrade's Population Analysis" project delved into the intricacies of demographic data in Belgrade. Utilizing advanced data analysis and visualization techniques, the project aimed to unveil significant insights into population distribution, trends, and dynamics within the city.
 
