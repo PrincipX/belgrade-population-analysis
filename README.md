@@ -2,10 +2,10 @@
 
 The "Belgrade's Population Analysis" project delved into the intricacies of demographic data in Belgrade. Utilizing advanced data analysis and visualization techniques, the project aimed to unveil significant insights into population distribution, trends, and dynamics within the city.
 
-### Objective:
+## Objective:
 The primary goal was to establish a comprehensive understanding of Belgrade's population composition and behaviors. By extracting meaningful patterns from demographic data, the project sought to inform decision-making processes related to urban planning, resource allocation, and community services.
 
-### Methodology:
+## Methodology:
 The project followed a systematic approach:
 
 1. Data Collection and Preparation: Curated a robust dataset from reliable sources, rigorously ensuring data accuracy and reliability through thorough cleansing and validation.
