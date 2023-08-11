@@ -23,4 +23,6 @@ The insights garnered hold significant implications for urban planning and commu
 
 In summary, the "Belgrade Population Analysis" project underscores my proficiency in data analysis, advanced visualization techniques, and the utilization of tools such as Power BI. Through this endeavor, I've demonstrated the ability to transform raw demographic data into actionable insights, contributing to the creation of responsive and thriving urban environments.
 
+##
+
 ![Belgrade's population analysis.png](https://github.com/PrincipX/belgrade-population-analysis/blob/main/Belgrade's%20population%20analysis.png)
